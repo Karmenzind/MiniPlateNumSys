@@ -1,0 +1,4 @@
+*.pyc
+note.md
+.idea/
+*.spec
