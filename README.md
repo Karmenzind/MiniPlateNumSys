@@ -1,2 +1,2 @@
-### Just for learning PyQt5. 
-### Really ugly, I know.
+Just for PyQt5 learning. 
+Ugly, I know.
